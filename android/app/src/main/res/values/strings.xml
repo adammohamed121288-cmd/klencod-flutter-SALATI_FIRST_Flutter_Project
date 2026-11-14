@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">صلاتي أولاً</string>
+    <string name="accessibility_service_description">يعيدك إلى شاشة صلاتي أولاً عند محاولة فتح التطبيقات أثناء تفعيل الوضع الصارم.</string>
+</resources>
